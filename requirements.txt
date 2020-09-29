@@ -1,0 +1,4 @@
+discord.py[voice] ~= 0.16.0
+pip
+discord.py
+gTTs.py
